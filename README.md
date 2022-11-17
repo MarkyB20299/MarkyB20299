@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkyB20299
+- 👋 Hi, I’m Mark Bithell
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on basic Python projects
